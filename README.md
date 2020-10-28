@@ -37,5 +37,3 @@
 <td align="center" width="30%"><img height=65px src="https://cdn.iconscout.com/icon/free/png-64/javascript-1-225993.png"></td>
 </tr>
 </table>
-
-<img width="80%" src="https://raw.githubusercontent.com/thebhushanmhatre/thebhushanmhatre/main/backbhu.jpg" alt="Bhushan enjoying on a Trek in Himalayas." />
