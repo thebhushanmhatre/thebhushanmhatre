@@ -1,13 +1,19 @@
 ### Hi there 👋
 
-I am ***Bhushan Mhatre***, Software Developer @ [MSCI](https://www.msci.com/esg-ratings)
+[![iam](https://img.shields.io/badge/I%20am-%23F7DF1E.svg?&style=for-the-badge)![BhushanMhatre](https://img.shields.io/badge/Bhushan%20Mhatre-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/thebhushanmhatre)
 
-Checkout my React Website here [![BhushanMhatre](https://forthebadge.com/images/badges/built-with-love.svg)](https://thebhushanmhatre.herokuapp.com/)
+[![GOD](https://img.shields.io/badge/Check%20my-%23FFA500.svg?&style=for-the-badge)![](https://img.shields.io/badge/react%20Website%20here%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://thebhushanmhatre.herokuapp.com/)
+
+[![GOD](https://img.shields.io/badge/Connect%20with%20me%20on-%23EA1D2C.svg?&style=for-the-badge)![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thebhushanmhatre/)
 
 <table>
 <tr>
   <th><img height=50px src="https://cdn2.iconfinder.com/data/icons/programming-languages-8/64/207_programming-program-language-code-coding-18-512.png"></th>
-  <th colspan="4"><img height=50px src="https://static.thenounproject.com/png/9280-200.png"><i>Libraries/Frameworks</i></th>
+  <th colspan="4">
+    <img height=50px src="https://static.thenounproject.com/png/9280-200.png">
+    <img height=30px src="https://cdn3.iconfinder.com/data/icons/math-numbers-solid/24/ampersand-solid-512.png">
+    <img height=50px src="https://static.thenounproject.com/png/2574406-200.png">
+  </th>
 </tr>
 
 <tr>
@@ -45,12 +51,12 @@ Checkout my React Website here [![BhushanMhatre](https://forthebadge.com/images/
 
 </table>
 
-Graduated from VJTI [![VJTI](https://www.vjti.ac.in/images/banner2-vjti.jpg)](https://en.wikipedia.org/wiki/Veermata_Jijabai_Technological_Institute)
-
 > Have used all the above frameworks and can work with them in future.
 
-> I also enjoy Solving Algorithms and Data Structures :hearts:
+I also enjoy Solving Algorithms and Data Structures :hearts:
 
-> Enjoy playing Chess :chess_pawn: and :cricket_game:. Also :heart: Treks :national_park: :mountain: :camping:
+Enjoy playing Chess :chess_pawn: and :cricket_game:. 
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/thebhushanmhatre/).
+:heart: Treks :national_park: :mountain: :camping:
+
+:heart: ![](https://img.shields.io/badge/mathematics%20-%23000000.svg?&style=for-the-badge&logo=matrix&logoColor=white)
