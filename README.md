@@ -1,9 +1,7 @@
-### Hi there 👋
+#### Hi there 👋
 
-[![iam](https://img.shields.io/badge/I%20am-%23F7DF1E.svg?&style=for-the-badge)![BhushanMhatre](https://img.shields.io/badge/Bhushan%20Mhatre-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/thebhushanmhatre)
-
-[![GOD](https://img.shields.io/badge/Check%20my-%23FFA500.svg?&style=for-the-badge)![](https://img.shields.io/badge/react%20Website%20here%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://thebhushanmhatre.herokuapp.com/)
-
+[![iam](https://img.shields.io/badge/I%20am-%23F7DF1E.svg?&style=for-the-badge)![BhushanMhatre](https://img.shields.io/badge/Bhushan-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/thebhushanmhatre) &nbsp; &nbsp; &nbsp;
+[![GOD](https://img.shields.io/badge/Check%20my-%23FFA500.svg?&style=for-the-badge)![](https://img.shields.io/badge/react%20Website%20here%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://thebhushanmhatre.herokuapp.com/) &nbsp; &nbsp; &nbsp;
 [![GOD](https://img.shields.io/badge/Connect%20with%20me%20on-%23EA1D2C.svg?&style=for-the-badge)![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thebhushanmhatre/)
 
 <table>
@@ -55,8 +53,7 @@
 
 I also enjoy Solving Algorithms and Data Structures :hearts:
 
-Enjoy playing Chess :chess_pawn: and :cricket_game:. 
-
-:heart: Treks :national_park: :mountain: :camping:
-
 :heart: ![](https://img.shields.io/badge/mathematics%20-%23000000.svg?&style=for-the-badge&logo=matrix&logoColor=white)
+:chess_pawn: and :cricket_game: 
+
+:heart: Nature Trails and Treks :national_park: :mountain: :camping:
