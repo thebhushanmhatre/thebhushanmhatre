@@ -1,7 +1,14 @@
 # ✦ About Me:
 
+I am a full-stack software engineer with over 6 years of professional experience, specializing in frontend development with React and TypeScript.
+I have a proven track record of delivering high-impact projects that enhance user experience and operational efficiency, earning multiple team and individual awards at my current firm.
+
+<br>
+
 ✎ **I’m currently working on:**  
 Fluent React Apps with Typescript
+
+<br>
 
 👀 **I’m looking to collaborate on:**  
 Building UI Apps and bring design systems into life by creating common reusable libraries to be used by other developers
@@ -15,6 +22,7 @@ Building UI Apps and bring design systems into life by creating common reusable 
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/bhushanmhatre)
 [![react-portfolio](<https://img.shields.io/badge/React_Portfolio_(2020)-skyblue?style=for-the-badge>)](https://thebhushanmhatre.netlify.app/)
 [![html-portfolio](<https://img.shields.io/badge/HTML_CSS_Portfolio_(2018)-azure?style=for-the-badge>)](https://thebhushanmhatre.github.io/)
+[![resume](<https://img.shields.io/badge/Resume_(2024)-azure?style=for-the-badge>)](https://drive.google.com/file/d/16rkAd-VY6QrAL0fbDEnQPcC4ytBhecPc/view)
 
 <br>
 
@@ -25,6 +33,19 @@ Building UI Apps and bring design systems into life by creating common reusable 
 ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)
 ![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)
+
+<br>
+
+# 📊 GitHub Stats:
+
+<div style="display: flex; flex-direction: row; gap: 10px">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=thebhushanmhatre&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebhushanmhatre&theme=dark&layout=compact" />
+</div>
+
+### 🔝 Top Contributed Repo
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=thebhushanmhatre&limit=5&combine_all_yearly_contributions=true&theme=dark)
 
 <br>
 
@@ -133,17 +154,7 @@ Building UI Apps and bring design systems into life by creating common reusable 
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=thebhushanmhatre&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thebhushanmhatre)](https://git.io/streak-stats)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thebhushanmhatre&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=thebhushanmhatre&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<br>
 
 ## 📚 Tech Books
 
@@ -179,4 +190,4 @@ Design It!: From Programmer to Software Architect - Keeling, Michael
 
 Fundamentals of Software Architecture: An Engineering Approach - Mark Richards and Neal Ford
 
-... checkout my good read account linked above for book books recommendation
+. . . checkout my good read account linked above for book books recommendation
