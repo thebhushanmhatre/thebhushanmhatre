@@ -17,24 +17,12 @@ Building UI Apps and bring design systems into life by creating common reusable 
 
 # 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/bhushanmhatre" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/u/bhushanmhatre/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-</a>
-<a href="https://www.goodreads.com/bhushanmhatre" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" alt="Goodreads"/>
-</a>
-<a href="https://thebhushanmhatre.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/React_Portfolio_(2020)-skyblue?style=for-the-badge" alt="react-portfolio"/>
-</a>
-<a href="https://thebhushanmhatre.github.io/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/HTML_CSS_Portfolio_(2018)-azure?style=for-the-badge" alt="html-portfolio"/>
-</a>
-<a href="https://drive.google.com/file/d/16rkAd-VY6QrAL0fbDEnQPcC4ytBhecPc/view" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Resume_(2024)-azure?style=for-the-badge" alt="resume"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhushanmhatre)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/bhushanmhatre/)
+[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/bhushanmhatre)
+[![react-portfolio](<https://img.shields.io/badge/React_Portfolio_(2020)-skyblue?style=for-the-badge>)](https://thebhushanmhatre.netlify.app/)
+[![html-portfolio](<https://img.shields.io/badge/HTML_CSS_Portfolio_(2018)-azure?style=for-the-badge>)](https://thebhushanmhatre.github.io/)
+[![resume](<https://img.shields.io/badge/Resume_(2024)-azure?style=for-the-badge>)](https://drive.google.com/file/d/16rkAd-VY6QrAL0fbDEnQPcC4ytBhecPc/view)
 
 <br>
 
@@ -92,7 +80,7 @@ Building UI Apps and bring design systems into life by creating common reusable 
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Fluent UI](https://img.shields.io/badge/Fluent_UI-skyblue?style=for-the-badge&logo=microsoft&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
